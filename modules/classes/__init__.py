@@ -1,4 +1,4 @@
-from .Particle import Particle
+from .particle import Particle
 from .DistanceCalculator import DistanceCalculatorBrute
 from .DistanceCalculator import DistanceCalculatorDivideAndConquer
 from .ParticlePlotter import ParticlePlotter

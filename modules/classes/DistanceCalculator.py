@@ -1,7 +1,7 @@
 # modules/classes/distance_calculator.py
 from math import sqrt
 from typing import List, Tuple, Optional
-from modules.classes.Particle import Particle
+from modules.classes.particle import Particle
 
 
 class DistanceCalculatorBrute:
